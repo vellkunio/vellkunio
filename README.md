@@ -56,10 +56,9 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 
 
 
-[<img align="left" alt="vellkunio | Telegram" width="45%" src="https://user-images.githubusercontent.com/35813564/152409065-30580015-d791-4901-9753-3cd41a767d4a.png" />][LirioplanDesktop]
-[<img align="right" alt="vellkunio | Telegram" width="45%" src="https://user-images.githubusercontent.com/35813564/152409190-dccecfca-59b6-4f81-80ad-6413d8550643.png" />][LirioplanFunctions]
+[<img align="left" alt="vellkunio | Telegram" width="45%" height="350px" src="https://user-images.githubusercontent.com/35813564/152409065-30580015-d791-4901-9753-3cd41a767d4a.png" />][LirioplanDesktop]
+[<img align="right" alt="vellkunio | Telegram" width="45%" height="400px" src="https://user-images.githubusercontent.com/35813564/152409190-dccecfca-59b6-4f81-80ad-6413d8550643.png" />][LirioplanFunctions]
 
-<br>
 <br>
 <br>
 <br>
@@ -81,8 +80,8 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 <h4 align="center">Lirioplan Inc.</h4>
 <h5 align="center">Project for Tile installation company in Ontario that has gorgeous design that clients see and custom-build back-end functions that are available for employees and management team</h5>
 
-[<img align="left" alt="vellkunio | Telegram" width="45%" src="https://user-images.githubusercontent.com/35813564/152409065-30580015-d791-4901-9753-3cd41a767d4a.png" />][LirioplanDesktop]
-[<img align="right" alt="vellkunio | Telegram" width="45%" src="https://user-images.githubusercontent.com/35813564/152409190-dccecfca-59b6-4f81-80ad-6413d8550643.png" />][LirioplanFunctions]
+[<img align="left" alt="vellkunio | Telegram" width="45%" height="350px" src="https://user-images.githubusercontent.com/35813564/152409065-30580015-d791-4901-9753-3cd41a767d4a.png" />][LirioplanDesktop]
+[<img align="right" alt="vellkunio | Telegram" width="45%" height="400px" src="https://user-images.githubusercontent.com/35813564/152409190-dccecfca-59b6-4f81-80ad-6413d8550643.png" />][LirioplanFunctions]
 
 <br>
 <br>

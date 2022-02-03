@@ -97,7 +97,3 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 [telegram]: https://t.me/vellkunio
 [LirioplanDesktop]: https://github.com/vellkunio/lirioplan-client
 [LirioplanFunctions]: https://github.com/vellkunio/lirioplan-functions
-
-
-
-

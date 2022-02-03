@@ -37,10 +37,16 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 <img align="left" alt="Figma" height="26px" src="https://user-images.githubusercontent.com/35813564/152401942-fa1bae7c-610d-47f5-89a7-3fb350110934.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/35813564/152402381-17cb0120-37d3-42f1-a7af-34d01ba45d05.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/35813564/152402500-a5ffb434-70dc-428b-90aa-d7efb4bfce1d.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://user-images.githubusercontent.com/35813564/152404652-188fa819-2906-44f2-ad6a-b4fb2a65ebb2.svg" />
+<img align="left" alt="Google Console" width="26px" src="https://user-images.githubusercontent.com/35813564/152404663-c1fca666-a496-4151-984d-6cbd43a7e324.svg" />
+<img align="left" alt="Microsoft Access" width="26px" src="https://user-images.githubusercontent.com/35813564/152404672-d615e053-6251-421f-97b1-07ea12c94643.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://user-images.githubusercontent.com/35813564/152404678-ec01923a-0520-4584-af78-27e2f5d3fddb.svg" />
 
 <br>
 <br>
-
 
 
 

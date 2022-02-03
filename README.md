@@ -48,6 +48,63 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 <br>
 <br>
 
+### My recent projects
+
+<h4 align="center">Lirioplan Inc.</h4>
+<h5 align="center">Project for Tile installation company in Ontario that has gorgeous design that clients see and custom-build back-end functions that are available for employees and management team</h5>
+
+
+
+
+[<img align="left" alt="vellkunio | Telegram" width="45%" src="https://user-images.githubusercontent.com/35813564/152409065-30580015-d791-4901-9753-3cd41a767d4a.png" />][LirioplanDesktop]
+[<img align="right" alt="vellkunio | Telegram" width="45%" src="https://user-images.githubusercontent.com/35813564/152409190-dccecfca-59b6-4f81-80ad-6413d8550643.png" />][LirioplanFunctions]
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h4 align="center">Lirioplan Inc.</h4>
+<h5 align="center">Project for Tile installation company in Ontario that has gorgeous design that clients see and custom-build back-end functions that are available for employees and management team</h5>
+
+[<img align="left" alt="vellkunio | Telegram" width="45%" src="https://user-images.githubusercontent.com/35813564/152409065-30580015-d791-4901-9753-3cd41a767d4a.png" />][LirioplanDesktop]
+[<img align="right" alt="vellkunio | Telegram" width="45%" src="https://user-images.githubusercontent.com/35813564/152409190-dccecfca-59b6-4f81-80ad-6413d8550643.png" />][LirioplanFunctions]
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### 📊 GitHub Stats:
+![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vellkunio&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+
 
 
 
@@ -56,27 +113,9 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 [instagram]: https://www.instagram.com/vellkunio
 [github]: https://github.com/vellkunio
 [telegram]: https://t.me/vellkunio
+[LirioplanDesktop]: https://github.com/vellkunio/lirioplan-client
+[LirioplanFunctions]: https://github.com/vellkunio/lirioplan-functions
 
 
 
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-📫 How to reach me: 
-
-* Email me: vellkunio@gmail.com 📧
-* Message me: [on instagram 📱](https://www.instagram.com/vellkunio) or hay hi on [linkedIn 🔮](https://www.linkedin.com/in/serhii-vilkun-477015188/)
-* 
--->

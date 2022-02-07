@@ -52,8 +52,10 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 
 [<img align="left" alt="Photoshop" width="250px" src="https://user-images.githubusercontent.com/35813564/152869276-01309cf8-ebb3-43b4-adc4-e93d6d1e4717.png" />](https://github.com/vellkunio/lirioplan-client)
 
-#### Lirioplan Inc.
+[<h4> Lirioplan Inc. </h4>](https://github.com/vellkunio/lirioplan-client)
+
 ##### Web application with gorgeous front-end and a lot of back-end functions with API
+
   Website that potential customers see and in addition, project, materials and finance management for employees and owner. *Please, read **'ReadMe'** on the project repository for instruction to see full webApp potential*
   
 <br>
@@ -62,7 +64,7 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 
 [<img align="right" alt="Photoshop" width="250px" src="https://user-images.githubusercontent.com/35813564/152874183-e9dca6c8-7c77-4fad-8baa-793aacbac8c6.png" />](https://github.com/vellkunio/Cakes)
 
-<h4 align="right"> Wow Cakes </h4> 
+[<h4 align="right"> Wow Cakes </h4>](https://github.com/vellkunio/Cakes)
 
 <h5 align="right">Website with responsive modern Galssmorphism design, custom logo & SEO  </h5>
 

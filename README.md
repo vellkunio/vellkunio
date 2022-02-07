@@ -48,6 +48,33 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 <br>
 <br>
 
+### My recent projects
+
+[<img align="left" alt="Photoshop" width="250px" src="https://user-images.githubusercontent.com/35813564/152869276-01309cf8-ebb3-43b4-adc4-e93d6d1e4717.png" />](https://github.com/vellkunio/lirioplan-client)
+
+#### Lirioplan Inc.
+##### Web application with gorgeous front-end and a lot of back-end functions with API
+  Website that potential customers see and in addition, project, materials and finance management for employees and owner. *Please, read **'ReadMe'** on the project repository for instruction to see full webApp potential*
+  
+<br>
+<br>
+<br>
+
+[<img align="right" alt="Photoshop" width="250px" src="https://user-images.githubusercontent.com/35813564/152869276-01309cf8-ebb3-43b4-adc4-e93d6d1e4717.png" />](https://github.com/vellkunio/lirioplan-client)
+
+<h4 align="right"> Lirioplan Inc. </h4> 
+
+<h5 align="right">Web application with gorgeous front-end and a lot of back-end functions with API </h5>
+
+<p align="right"> Website that potential customers see and in addition, project, materials and finance management for employees and owner. *Please, read **'ReadMe'** on the project repository for instruction to see full webApp potential* </p>
+  
+  
+  
+  
+  
+  
+  
+
 <!---
 
 ### My recent projects
@@ -83,6 +110,7 @@ I am just a guy from Ukraine who lives and works in Canada as Full-Stack Develop
 
 --->
 
+<br>
 
 ### 📊 GitHub Stats:
 ![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vellkunio&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues,stars)

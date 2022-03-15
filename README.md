@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am just a guy who lives and works in Canada as Full-Stack Developer. On my profile you can see some of my recent projects. 
+I am just a guy who live and work in Canada as Full-Stack Developer. On my profile you can see some of my recent projects. 
 
 ### Education 🎓
 
